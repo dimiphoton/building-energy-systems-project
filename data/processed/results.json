@@ -1,0 +1,379 @@
+{
+  "person": "Dimitri Marchand",
+  "birth_year": 1986,
+  "birth_month": 8,
+  "birth_day": 29,
+  "digits": {
+    "a": 0,
+    "b": 8,
+    "c": 2,
+    "d": 9
+  },
+  "city": "Danderyd",
+  "city_number": 29,
+  "latitude": 59.397222,
+  "longitude": 18.081944,
+  "weather_year": 2017,
+  "tin_c": 22.0,
+  "dvut_c": -10.7,
+  "dvut_days": 7,
+  "time_constant_days": 6.687104888077183,
+  "u_wall": 0.39902770175656943,
+  "lambda_mix": 0.044725,
+  "r_wall": 2.5060916713247625,
+  "um": 0.5889926285530673,
+  "envelope": {
+    "floor_area_m2": 450.0,
+    "atemp_m2": 1350.0,
+    "volume_m3": 3375.0,
+    "facade_gross_m2": 825.0,
+    "wall_opaque_m2": 645.6,
+    "window_m2": 129.0,
+    "door_m2": 50.400000000000006,
+    "aom_m2": 1725.0,
+    "bridge_length_m": 180.0,
+    "ua_wall": 257.61228425404124,
+    "ua_window": 374.09999999999997,
+    "ua_door": 100.80000000000001,
+    "ua_roof": 72.0,
+    "ua_foundation": 103.5,
+    "psi_l": 108.0,
+    "h_tr": 1016.0122842540411,
+    "capacity_j_per_k": 822179030.4,
+    "window_south_m2": 12.9,
+    "window_north_m2": 12.9,
+    "window_east_m2": 51.6,
+    "window_west_m2": 51.6
+  },
+  "ventilation": {
+    "q_mech_m3_s": 0.2923076923076923,
+    "q_leak_m3_s": 0.046875,
+    "q_total_m3_s": 0.3391826923076923,
+    "h_mech": 350.7692307692308,
+    "h_leak": 56.25,
+    "h_vent": 407.0192307692308,
+    "specific_flow_l_s_m2": 0.21652421652421652
+  },
+  "appliance_w": 5400.0,
+  "people_w": 3800.0,
+  "tb_c": 18.205284322243777,
+  "power_without_gains_w": 46533.130541260995,
+  "power_with_appliances_w": 41133.130541260995,
+  "design_shares_w": {
+    "walls": 8423.921695107148,
+    "windows": 12233.07,
+    "doors": 3296.1600000000008,
+    "roof": 2354.4,
+    "foundation": 3384.4500000000003,
+    "balconies": 3531.6000000000004,
+    "ventilation": 13309.528846153848
+  },
+  "season_2017": {
+    "hours": 5832,
+    "transmission_kwh": 108959.2909892003,
+    "ventilation_kwh": 43649.597048076925,
+    "appliances_kwh": 31492.8,
+    "people_kwh": 22161.6,
+    "solar_kwh": 19932.822,
+    "deficit_kwh": 80209.22127740843,
+    "degree_hours_tin": 107242.1,
+    "degree_hours_tb": 85117.28646139224
+  },
+  "season_normal_direct": {
+    "hours": 5832,
+    "transmission_kwh": 110489.10068560162,
+    "ventilation_kwh": 44262.44590384616,
+    "appliances_kwh": 31492.8,
+    "people_kwh": 22161.6,
+    "solar_kwh": 19932.822,
+    "deficit_kwh": 83078.2624310013,
+    "degree_hours_tin": 108751.6,
+    "degree_hours_tb": 86724.864519858
+  },
+  "correction_factor": 1.0188866225099285,
+  "heat_deficit_corrected_kwh": 81724.10256149017,
+  "monthly_2017": [
+    {
+      "month": 1.0,
+      "transmission_kwh": 17103.75399558938,
+      "ventilation_kwh": 6851.843134615384,
+      "solar_kwh": 1256.3258400000004,
+      "appliances_kwh": 4017.6,
+      "people_kwh": 2827.2,
+      "deficit_kwh": 15854.471290204763
+    },
+    {
+      "month": 2.0,
+      "transmission_kwh": 15196.698938044545,
+      "ventilation_kwh": 6087.868038461539,
+      "solar_kwh": 2542.55904,
+      "appliances_kwh": 3628.8,
+      "people_kwh": 2553.6,
+      "deficit_kwh": 12559.607936506083
+    },
+    {
+      "month": 3.0,
+      "transmission_kwh": 14410.102227575066,
+      "ventilation_kwh": 5772.75375,
+      "solar_kwh": 4279.56984,
+      "appliances_kwh": 4017.6,
+      "people_kwh": 2827.2,
+      "deficit_kwh": 9164.992173592416
+    },
+    {
+      "month": 4.0,
+      "transmission_kwh": 12808.663665133845,
+      "ventilation_kwh": 5131.210038461538,
+      "solar_kwh": 4326.814799999999,
+      "appliances_kwh": 3888.0,
+      "people_kwh": 2736.0,
+      "deficit_kwh": 7051.823723059202
+    },
+    {
+      "month": 5.0,
+      "transmission_kwh": 8373.566841908105,
+      "ventilation_kwh": 3354.4896923076926,
+      "solar_kwh": 4481.1194399999995,
+      "appliances_kwh": 4017.6,
+      "people_kwh": 2827.2,
+      "deficit_kwh": 2864.820676815468
+    },
+    {
+      "month": 6.0,
+      "transmission_kwh": 5064.110028407417,
+      "ventilation_kwh": 2028.705951923077,
+      "solar_kwh": 4599.882,
+      "appliances_kwh": 3888.0,
+      "people_kwh": 2736.0,
+      "deficit_kwh": 266.6961286000804
+    },
+    {
+      "month": 7.0,
+      "transmission_kwh": 3825.9974588154423,
+      "ventilation_kwh": 1532.7123173076923,
+      "solar_kwh": 4692.746520000001,
+      "appliances_kwh": 4017.6,
+      "people_kwh": 2827.2,
+      "deficit_kwh": 73.69273879432777
+    },
+    {
+      "month": 8.0,
+      "transmission_kwh": 4123.993861787152,
+      "ventilation_kwh": 1652.0910576923075,
+      "solar_kwh": 4434.091200000001,
+      "appliances_kwh": 4017.6,
+      "people_kwh": 2827.2,
+      "deficit_kwh": 193.12814972153774
+    },
+    {
+      "month": 9.0,
+      "transmission_kwh": 6647.56517341734,
+      "ventilation_kwh": 2663.045423076923,
+      "solar_kwh": 3520.6164000000003,
+      "appliances_kwh": 3888.0,
+      "people_kwh": 2736.0,
+      "deficit_kwh": 684.6279850249582
+    },
+    {
+      "month": 10.0,
+      "transmission_kwh": 10858.224883051362,
+      "ventilation_kwh": 4349.855221153846,
+      "solar_kwh": 2247.27804,
+      "appliances_kwh": 4017.6,
+      "people_kwh": 2827.2,
+      "deficit_kwh": 6178.61000434444
+    },
+    {
+      "month": 11.0,
+      "transmission_kwh": 13554.01027686261,
+      "ventilation_kwh": 5429.799346153846,
+      "solar_kwh": 861.4620000000001,
+      "appliances_kwh": 3888.0,
+      "people_kwh": 2736.0,
+      "deficit_kwh": 11498.347623016458
+    },
+    {
+      "month": 12.0,
+      "transmission_kwh": 15755.20089069899,
+      "ventilation_kwh": 6311.606509615385,
+      "solar_kwh": 372.86676000000006,
+      "appliances_kwh": 4017.6,
+      "people_kwh": 2827.2,
+      "deficit_kwh": 14849.140640314376
+    }
+  ],
+  "monthly_normal": [
+    {
+      "month": 1.0,
+      "transmission_kwh": 17612.064941401677,
+      "ventilation_kwh": 7055.474855769231,
+      "solar_kwh": 1256.3258400000004,
+      "appliances_kwh": 4017.6,
+      "people_kwh": 2827.2,
+      "deficit_kwh": 16566.413957170906
+    },
+    {
+      "month": 2.0,
+      "transmission_kwh": 16021.192906716697,
+      "ventilation_kwh": 6418.164144230769,
+      "solar_kwh": 2542.55904,
+      "appliances_kwh": 3628.8,
+      "people_kwh": 2553.6,
+      "deficit_kwh": 13714.398010947467
+    },
+    {
+      "month": 3.0,
+      "transmission_kwh": 15749.612823135592,
+      "ventilation_kwh": 6309.367903846154,
+      "solar_kwh": 4279.56984,
+      "appliances_kwh": 4017.6,
+      "people_kwh": 2827.2,
+      "deficit_kwh": 10943.21075062542
+    },
+    {
+      "month": 4.0,
+      "transmission_kwh": 12170.709551850732,
+      "ventilation_kwh": 4875.642663461538,
+      "solar_kwh": 4326.814799999999,
+      "appliances_kwh": 3888.0,
+      "people_kwh": 2736.0,
+      "deficit_kwh": 6464.898924512444
+    },
+    {
+      "month": 5.0,
+      "transmission_kwh": 8661.5047232657,
+      "ventilation_kwh": 3469.8389423076924,
+      "solar_kwh": 4481.1194399999995,
+      "appliances_kwh": 4017.6,
+      "people_kwh": 2827.2,
+      "deficit_kwh": 2398.316526272513
+    },
+    {
+      "month": 6.0,
+      "transmission_kwh": 5436.580131814948,
+      "ventilation_kwh": 2177.919201923077,
+      "solar_kwh": 4599.882,
+      "appliances_kwh": 3888.0,
+      "people_kwh": 2736.0,
+      "deficit_kwh": 416.0065719111226
+    },
+    {
+      "month": 7.0,
+      "transmission_kwh": 3162.135032283852,
+      "ventilation_kwh": 1266.765951923077,
+      "solar_kwh": 4692.746520000001,
+      "appliances_kwh": 4017.6,
+      "people_kwh": 2827.2,
+      "deficit_kwh": 33.52018790562754
+    },
+    {
+      "month": 8.0,
+      "transmission_kwh": 3832.703139891519,
+      "ventilation_kwh": 1535.3986442307692,
+      "solar_kwh": 4434.091200000001,
+      "appliances_kwh": 4017.6,
+      "people_kwh": 2827.2,
+      "deficit_kwh": 74.77363522090421
+    },
+    {
+      "month": 9.0,
+      "transmission_kwh": 7302.58829307592,
+      "ventilation_kwh": 2925.450721153846,
+      "solar_kwh": 3520.6164000000003,
+      "appliances_kwh": 3888.0,
+      "people_kwh": 2736.0,
+      "deficit_kwh": 1331.8194491023976
+    },
+    {
+      "month": 10.0,
+      "transmission_kwh": 10841.05427544747,
+      "ventilation_kwh": 4342.976596153846,
+      "solar_kwh": 2247.27804,
+      "appliances_kwh": 4017.6,
+      "people_kwh": 2827.2,
+      "deficit_kwh": 6154.560771740547
+    },
+    {
+      "month": 11.0,
+      "transmission_kwh": 13998.617252452179,
+      "ventilation_kwh": 5607.910961538462,
+      "solar_kwh": 861.4620000000001,
+      "appliances_kwh": 3888.0,
+      "people_kwh": 2736.0,
+      "deficit_kwh": 12121.06621399064
+    },
+    {
+      "month": 12.0,
+      "transmission_kwh": 15823.883321114563,
+      "ventilation_kwh": 6339.121009615384,
+      "solar_kwh": 372.86676000000006,
+      "appliances_kwh": 4017.6,
+      "people_kwh": 2827.2,
+      "deficit_kwh": 14945.337570729946
+    }
+  ],
+  "energy_class": {
+    "system": "air-to-air heat pump, COP 3",
+    "cop": 3.0,
+    "dhw_carrier": "direct electric",
+    "bought_heat_kwh": 27241.367520496726,
+    "dhw_kwh": 33750.0,
+    "property_kwh": 20250.0,
+    "weighted_heat": 49034.46153689411,
+    "weighted_dhw": 60750.0,
+    "weighted_property": 36450.0,
+    "ep_kwh_m2": 108.32182336066231,
+    "limit_kwh_m2": 75.0,
+    "energy_class": "E",
+    "ratio_to_new_building": 1.444290978142164
+  },
+  "energy_class_direct_normal_year": {
+    "system": "air-to-air heat pump, COP 3",
+    "cop": 3.0,
+    "dhw_carrier": "direct electric",
+    "bought_heat_kwh": 27692.7541436671,
+    "dhw_kwh": 33750.0,
+    "property_kwh": 20250.0,
+    "weighted_heat": 49846.95745860079,
+    "weighted_dhw": 60750.0,
+    "weighted_property": 36450.0,
+    "ep_kwh_m2": 108.92367219155614,
+    "limit_kwh_m2": 75.0,
+    "energy_class": "E",
+    "ratio_to_new_building": 1.4523156292207484
+  },
+  "scenarios": [
+    {
+      "name": "Triple glazing, U = 1.0 W/(m²·K)",
+      "heat_deficit_corrected_kwh": 56185.75159823224,
+      "saved_kwh": 25538.350963257937,
+      "um": 0.44690567203132814,
+      "ep_kwh_m2": 96.97144515476988,
+      "energy_class": "D"
+    },
+    {
+      "name": "Heat recovery of 80 % on the exhaust air",
+      "heat_deficit_corrected_kwh": 52567.41804620748,
+      "saved_kwh": 29156.684515282694,
+      "um": 0.5889926285530673,
+      "ep_kwh_m2": 95.36329690942554,
+      "energy_class": "D"
+    },
+    {
+      "name": "Balcony thermal break, Ψ = 0.20 W/(m·K)",
+      "heat_deficit_corrected_kwh": 74153.64756035885,
+      "saved_kwh": 7570.455001131326,
+      "um": 0.5472534981182847,
+      "ep_kwh_m2": 104.95717669349283,
+      "energy_class": "E"
+    },
+    {
+      "name": "All three together",
+      "heat_deficit_corrected_kwh": 22129.186756017963,
+      "saved_kwh": 59594.91580547221,
+      "um": 0.4051665415965456,
+      "ep_kwh_m2": 81.83519411378576,
+      "energy_class": "D"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+# Cas ETA013. La date de naissance fixe a, b, c, d.
+# Le reste de ce fichier, ce sont les hypothèses qui ne sont pas dans le sujet.
+
+[person]
+name = "Dimitri Marchand"
+birth_year = 1986
+birth_month = 8
+birth_day = 29
+
+[materials]
+# Laine minérale de classe 37, bois en travers du fil, plaque de plâtre.
+# Valeurs usuelles (ISO 10456 / pratique suédoise), le sujet ne les donne pas.
+lambda_insulation = 0.037
+lambda_wood = 0.14
+lambda_gypsum = 0.25
+# Résistance superficielle intérieure, flux horizontal (ISO 6946).
+r_si = 0.13
+
+[gains]
+# 0,005 L/s de CO2 correspond à peu près à 1 met, soit environ 100 W.
+person_heat_w = 100
+
+[air]
+rho = 1.2
+cp = 1000
+
+[thermal_mass]
+# Épaisseur active depuis l'air intérieur (ISO 13790), pour choisir le DVUT.
+active_depth_m = 0.10
+
+[energy_class]
+# Danderyd, tableau Boverket. À changer si la ville change.
+f_geo = 1.0
+# BBR, flerbostadshus : exigence des bâtiments neufs, kWh/m² an.
+ep_new_limit = 75.0
+vf_electricity = 1.8
+vf_district_heating = 0.7
+# Sveby, brukarindata flerbostadshus. L'eau chaude et l'électricité
+# des communs ne sont pas dans le sujet ; elles entrent dans la classe
+# « de tout le bâtiment ».
+dhw_kwh_per_m2 = 25.0
+property_electricity_kwh_per_m2 = 15.0
+
+[measures]
+window_u = 1.0
+heat_recovery = 0.80
+psi = 0.20

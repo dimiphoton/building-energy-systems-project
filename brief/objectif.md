@@ -1,15 +1,16 @@
 # Objectif du projet
 
-À compléter : quel est le but de ce projet ?
+- **But** : dimensionner le chauffage d'un immeuble collectif qui passe
+  sous 20 °C par grand froid, puis donner son étiquette énergie après
+  correction d'année normale.
+- **Origine** : projet de cours ETA013, Building Energy Systems,
+  Université de Gävle (Sana Sayadi). Le PDF est dans `brief/`. La date
+  de naissance du 29 août 1986 fixe les chiffres a, b, c, d.
+- **Contraintes de départ** : rendu individuel, date limite 17 novembre
+  2026, méthode DVUT, fichier Sveby de l'année 2015 + a + a + c, solaire
+  pris sur la figure du sujet, classe énergétique selon le type de
+  chauffage c. Code simple et modulaire. Pas de données brutes
+  volumineuses dans git : seules les températures horaires de Danderyd
+  sont versionnées.
 
-- **But** : à compléter en une ou deux phrases.
-- **Origine** : d'où vient l'idée (compétition Kaggle, brief client fictif,
-  idée personnelle, reproduction d'un cas d'usage réel) ?
-- **Contraintes de départ** : délais, données imposées, technologie
-  imposée, etc. — laisser vide si aucune.
-
-Ce fichier capture le but brut, tel qu'il a été formulé au départ. Les
-versions polies destinées au portfolio vivent dans `README.md` et `docs/`.
-
-Métier, domaine et stack se remplissent dans `brief/identite.md` (source
-du bandeau README / covers / topics GitHub), pas ici.
+Métier, domaine et stack : `brief/identite.md`.
