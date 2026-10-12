@@ -7,129 +7,144 @@ paginate: true
 <!-- _class: cover -->
 <!-- _paginate: false -->
 
-<!-- Photo : pictures/presentations/photos/hero.png -->
-<!-- ![bg brightness:0.40](../../pictures/presentations/photos/hero.png) -->
+![bg brightness:0.40](../../pictures/presentations/photos/building-corridors.png)
 
-# [Question humaine]
-# sur deux ou trois
-# lignes ?
+# Quand il gèle,
+# cet immeuble
+# passe sous 20 °C.
 
-[Métier] · [Domaine] · [Stack]
+BI · Bâtiment
 
-Wallonie · période
-
----
-
-<!-- _class: split -->
-
-<!-- ![bg left:46%](../../pictures/presentations/photos/motivation.png) -->
-
-# [Pourquoi
-# maintenant.]
-
-[Enjeu humain ou économique, en une phrase.]
-
-**[Ce qui se joue si on ne fait rien.]**
+Danderyd · Suède
 
 ---
 
 <!-- _class: split -->
 
-<!-- ![bg left:46%](../../pictures/presentations/photos/hero.png) -->
+![bg left:46%](../../pictures/presentations/photos/building-corridors.png)
 
-# [Qui doit
-# s'en servir.]
+# Le conseil appelle
+# quand les logements
+# deviennent froids.
 
-[Agence / administration]. [Entreprise / opérateur]. [Autre acteur].
+Un immeuble de trois étages, des coursives extérieures, des fenêtres anciennes.
 
-**[La décision qu'ils ont à prendre.]**
+**En dessous de 20 °C, ce n'est plus un confort. C'est une panne de chauffage.**
+
+---
+
+<!-- _class: split -->
+
+![bg right:46%](../../pictures/presentations/photos/building-corridors.png)
+
+# Quelqu'un doit
+# choisir le premier
+# chantier.
+
+La copropriété paie. Le bureau d'études dit quoi changer.
+
+**La question du lundi : vitres, ventilation, ou coursives ?**
 
 ---
 
 <!-- _class: full -->
 
-<!-- ![bg brightness:0.38](../../pictures/presentations/photos/physique.png) -->
+![bg brightness:0.38](../../pictures/presentations/photos/building-corridors.png)
 
-# [La physique
-# en clair.]
+# La chaleur part
+# par trois chemins.
 
-[Mécanisme réel, sans équation : trop d'eau, trop de chaleur, un trou le soir…]
+Les vitres. L'air que la ventilation jette dehors. Les dalles des coursives, qui traversent le mur isolé.
 
 ---
 
 <!-- _class: split -->
 
-<!-- ![bg left:46%](../../pictures/presentations/photos/motivation.png) -->
+![bg left:42%](../../pictures/presentations/photos/building-corridors.png)
 
-# [Comment on
-# lit les chiffres.]
+# On lit une année
+# heure par heure.
 
-D'où ça vient. À quelle maille.
+La météo de Danderyd en 2017, puis la même année ramenée à un climat normal (1991–2020).
 
-Ce qu'on transforme pour que le chiffre veuille dire quelque chose.
+**Le chiffre de l'étiquette n'est pas celui d'un hiver au hasard.**
 
 ---
 
 <!-- _class: dark -->
 
-# Ce projet, ce n'est pas.
+# On dimensionne
+# le chauffage.
 
-Pas [non-objectif 1].
+La puissance à tenir par grand froid. L'étiquette sur une année normale.
 
-Pas [non-objectif 2].
-
-**[Ce qu'on vise à la place.]**
+Pas une maquette 3D. Pas un devis.
 
 ---
 
 <!-- _class: full -->
 
-<!-- ![bg brightness:0.38](../../pictures/presentations/photos/physique.png) -->
+![bg brightness:0.42](../../pictures/presentations/photos/building-corridors.png)
 
-# [Punchline.]
-# [Un chiffre.]
+# 47 kW
+# quand il fait −11 °C.
+
+Étiquette énergie **E**. Un immeuble neuf doit atteindre C.
 
 ---
 
 <!-- _class: chart -->
 
-[Titre-phrase : le graphe que *ce* public doit retenir.]
+# Par grand froid, l'air extrait et les vitres emportent le plus de chaleur.
 
-<!-- ![w:980](../../pictures/presentations/graphique-cle-fr.png) -->
+![w:920](../../pictures/presentations/design-power-shares.png)
+
+---
+
+<!-- _class: chart -->
+
+# L'hiver concentre le besoin. L'été, le chauffage s'arrête.
+
+![w:920](../../pictures/presentations/monthly-heating.png)
 
 ---
 
 <!-- _class: split -->
 
-<!-- ![bg left:40%](../../pictures/presentations/photos/hero.png) -->
+![bg right:42%](../../pictures/presentations/photos/building-corridors.png)
 
-# [Ce n'est pas
-# un artefact.]
+# L'étiquette E
+# ne vient pas
+# que du chauffage.
 
-<!-- ![w:480](../../pictures/presentations/carte-ou-robustesse-fr.png) -->
+La pompe à chaleur divise la facture des radiateurs. L'eau chaude, elle, reste un simple chauffe-eau électrique.
+
+**Dans la note, l'eau chaude pèse plus que le chauffage.**
 
 ---
 
 <!-- _class: actions -->
 
-<!-- ![bg right:38%](../../pictures/presentations/photos/action.png) -->
+![bg right:38%](../../pictures/presentations/photos/building-corridors.png)
 
-# Lundi.
+# Lundi, trois gestes.
 
-**[Cible A]** — [geste concret].
+**Récupérer la chaleur** de l'air extrait — le plus gros gain.
 
-**[Cible B]** — [geste concret].
+**Changer les vitres** — le plus gros trou dans les murs.
 
-Pas une cause unique. Un faisceau d'indices.
+**Couper les coursives** du plancher chaud — un pont thermique déjà connu.
+
+Les trois ensemble font passer l'étiquette de E à D.
 
 ---
 
 <!-- _class: cta -->
 
-<!-- ![bg brightness:0.30](../../pictures/presentations/photos/cta.png) -->
+![bg brightness:0.32](../../pictures/presentations/photos/building-corridors.png)
 
-# À vous.
+# Le calcul est dans le rapport.
 
-[Ouvrir le tableau de bord](../explore-fr.html)
+[Rapport](https://github.com/dimiphoton/building-energy-systems-project/blob/main/docs/report/assignment-report.md)
 
-[Code source](https://github.com/dimiphoton/mon-projet)
+[Code](https://github.com/dimiphoton/building-energy-systems-project)

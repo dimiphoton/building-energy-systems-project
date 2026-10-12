@@ -7,129 +7,144 @@ paginate: true
 <!-- _class: cover -->
 <!-- _paginate: false -->
 
-<!-- Photo: pictures/presentations/photos/hero.png -->
-<!-- ![bg brightness:0.40](../../pictures/presentations/photos/hero.png) -->
+![bg brightness:0.40](../../pictures/presentations/photos/building-corridors.png)
 
-# [Human question]
-# on two or three
-# lines?
+# When it freezes,
+# this building
+# drops below 20 °C.
 
-[Role] · [Domain] · [Stack]
+BI · Buildings
 
-Wallonia · period
-
----
-
-<!-- _class: split -->
-
-<!-- ![bg left:46%](../../pictures/presentations/photos/motivation.png) -->
-
-# [Why this
-# matters now.]
-
-[Human or economic stake, in one sentence.]
-
-**[What happens if nobody acts.]**
+Danderyd · Sweden
 
 ---
 
 <!-- _class: split -->
 
-<!-- ![bg left:46%](../../pictures/presentations/photos/hero.png) -->
+![bg left:46%](../../pictures/presentations/photos/building-corridors.png)
 
-# [Who would
-# use this.]
+# The board calls
+# when the flats
+# go cold.
 
-[Agency / public body]. [Firm / operator]. [Other actor].
+Three storeys, open corridors, old windows.
 
-**[The decision they have to make.]**
+**Below 20 °C this is a heating failure, not a comfort setting.**
+
+---
+
+<!-- _class: split -->
+
+![bg right:46%](../../pictures/presentations/photos/building-corridors.png)
+
+# Someone has to
+# pick the first
+# repair.
+
+The association pays. The engineer says what to change.
+
+**Monday's question: glass, ventilation, or the balconies?**
 
 ---
 
 <!-- _class: full -->
 
-<!-- ![bg brightness:0.38](../../pictures/presentations/photos/physique.png) -->
+![bg brightness:0.38](../../pictures/presentations/photos/building-corridors.png)
 
-# [The physics
-# in plain words.]
+# Heat leaves
+# by three paths.
 
-[Real-world mechanism, no equation: too much rain, too much heat, an evening gap…]
+The windows. The air the fans throw outside. The balcony slabs, which cut through the insulation.
 
 ---
 
 <!-- _class: split -->
 
-<!-- ![bg left:46%](../../pictures/presentations/photos/motivation.png) -->
+![bg left:42%](../../pictures/presentations/photos/building-corridors.png)
 
-# [How we read
-# the numbers.]
+# We read one year,
+# hour by hour.
 
-Where they come from. At what grain.
+Danderyd's weather in 2017, then the same building brought back to a normal climate, 1991–2020.
 
-What we transform so the figure actually means something.
+**The energy label is not the story of one lucky winter.**
 
 ---
 
 <!-- _class: dark -->
 
-# This project is not.
+# This sizes
+# the heating.
 
-Not [non-goal 1].
+The power to hold on a design day. The label on a normal year.
 
-Not [non-goal 2].
-
-**[What we aim at instead.]**
+A study for the board. No 3D model, no contractor quote.
 
 ---
 
 <!-- _class: full -->
 
-<!-- ![bg brightness:0.38](../../pictures/presentations/photos/physique.png) -->
+![bg brightness:0.42](../../pictures/presentations/photos/building-corridors.png)
 
-# [Punchline.]
-# [One number.]
+# 47 kW
+# at −11 °C outside.
+
+Energy label **E**. A new building has to reach C.
 
 ---
 
 <!-- _class: chart -->
 
-[Sentence headline: the chart *this* audience should remember.]
+# On the design day, the exhaust air and the windows take the most heat.
 
-<!-- ![w:980](../../pictures/presentations/key-chart-en.png) -->
+![w:920](../../pictures/presentations/design-power-shares.png)
+
+---
+
+<!-- _class: chart -->
+
+# Winter carries the heating. In summer it stops.
+
+![w:920](../../pictures/presentations/monthly-heating.png)
 
 ---
 
 <!-- _class: split -->
 
-<!-- ![bg left:40%](../../pictures/presentations/photos/hero.png) -->
+![bg right:42%](../../pictures/presentations/photos/building-corridors.png)
 
-# [This is not
-# an artefact.]
+# Label E is not
+# only about
+# the radiators.
 
-<!-- ![w:480](../../pictures/presentations/map-or-robustness-en.png) -->
+The heat pump cuts the heating bill by three. Hot water is still a plain electric cylinder.
+
+**On the label, hot water weighs more than the heating.**
 
 ---
 
 <!-- _class: actions -->
 
-<!-- ![bg right:38%](../../pictures/presentations/photos/action.png) -->
+![bg right:38%](../../pictures/presentations/photos/building-corridors.png)
 
-# Monday.
+# Monday, three jobs.
 
-**[Target A]** — [concrete move].
+**Recover the heat** in the exhaust air — the largest saving.
 
-**[Target B]** — [concrete move].
+**Replace the windows** — the largest hole in the walls.
 
-Not causation. A bundle of clues.
+**Break the balcony slabs** off the warm floor — a bridge the survey already flagged.
+
+Together they move the label from E to D.
 
 ---
 
 <!-- _class: cta -->
 
-<!-- ![bg brightness:0.30](../../pictures/presentations/photos/cta.png) -->
+![bg brightness:0.32](../../pictures/presentations/photos/building-corridors.png)
 
-# Your turn.
+# The numbers are in the report.
 
-[Open the dashboard](../explore-en.html)
+[Report](https://github.com/dimiphoton/building-energy-systems-project/blob/main/docs/report/assignment-report.md)
 
-[Source code](https://github.com/dimiphoton/mon-projet)
+[Code](https://github.com/dimiphoton/building-energy-systems-project)

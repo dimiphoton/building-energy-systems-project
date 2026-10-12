@@ -17,16 +17,20 @@ par champ. L'agent propose, l'utilisateur valide.
 
 | Champ | Valeur (FR) | Valeur (EN, pour le README) |
 |---|---|---|
-| **Métier** | _à valider_ | _à valider_ |
-| **Domaine** | _à valider_ | _à valider_ |
-| **Stack courte** | _ex. Python / DuckDB / Streamlit_ (4 outils max) | idem |
-| **Ligne identité** | `_Métier_ · _Domaine_ · _Stack courte_` | `_Role_ · _Domain_ · _Stack_` |
-| **Topics GitHub** | _5 tags max, voir table plus bas_ | |
-| **About GitHub** | _la ligne identité EN, ≤ 80 caractères_ | |
+| **Métier** | BI | BI |
+| **Domaine** | Bâtiment | Buildings |
+| **Stack courte** | Python / pandas / matplotlib | Python / pandas / matplotlib |
+| **Ligne identité** | BI · Bâtiment · Python / pandas / matplotlib | BI · Buildings · Python / pandas / matplotlib |
+| **Topics GitHub** | `bi` `buildings` `python` `pandas` `energy` | |
+| **About GitHub** | BI · Buildings · Python / pandas / matplotlib | |
 
 Période / maille des données (pour la cover, en plus de la ligne) :
 
-- _ex. Wallonie · 2000–2024_
+- Danderyd (Suède) · horaire · 2017, ramené à la normale 1991–2020
+
+Le métier est le BI : le livrable est une lecture d'indicateurs pour une
+copropriété (puissance, Um, étiquette), pas un modèle prédictif. Le calcul
+physique est celui du sujet ETA013, date de naissance du 29 août 1986.
 
 Une fois validé : recopier dans le tableau du `README.md`, sur la cover
 des 4 présentations, puis `gh repo edit` (description + topics) si le
