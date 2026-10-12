@@ -70,6 +70,8 @@ def render_report(result: dict[str, object]) -> str:
     add(f"| Energy class | {energy['energy_class']} |")  # type: ignore[index]
     add("")
     add("The duration diagram is `pictures/experiments/duration-temperature.png`.")
+    add("The typeset submission is `docs/report/assignment-report.pdf`,")
+    add("compiled from `docs/report/assignment-report.tex`.")
     add("")
     add("## What was asked, in plain words")
     add("")

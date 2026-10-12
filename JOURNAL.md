@@ -16,3 +16,5 @@
   kWh/m²·an, classe E. L'eau chaude électrique pèse plus que le chauffage
   dans l'EP, parce que la PAC ne couvre que les radiateurs.
 - Code en fonctions courtes, tests sur les formules et sur le cas complet.
+- Le rapport rendu est aussi un PDF LaTeX
+  (`docs/report/assignment-report.pdf`), mêmes chiffres que le Markdown.

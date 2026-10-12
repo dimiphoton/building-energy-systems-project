@@ -7,6 +7,8 @@
   correction d'année normale, classe énergétique E.
 - Trois scénarios de travaux (vitrage, récupération, coursives).
 - Rapport en `docs/report/assignment-report.md`.
+- Même rapport mis en page en PDF (`docs/report/assignment-report.pdf`),
+  source LaTeX `docs/report/assignment-report.tex`.
 
 ## [Non publié]
 

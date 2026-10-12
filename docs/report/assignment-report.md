@@ -29,6 +29,8 @@ the same split as the example in the brief (1985, 10, 29 → a = 1, b = 0, c = 2
 | Energy class | E |
 
 The duration diagram is `pictures/experiments/duration-temperature.png`.
+The typeset submission is `docs/report/assignment-report.pdf`,
+compiled from `docs/report/assignment-report.tex`.
 
 ## What was asked, in plain words
 

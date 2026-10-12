@@ -24,7 +24,7 @@ Over a normal year the heating deficit is **82 MWh**. The primary energy number 
 
 Recovering heat from the exhaust air, replacing the windows, and breaking the balcony slabs move the label from E to D. They do not reach C: the electric hot water stays in the bill.
 
-The full write-up, with the checklist the course asks for, is [`docs/report/assignment-report.md`](docs/report/assignment-report.md).
+The course report, typeset for submission, is [`docs/report/assignment-report.pdf`](docs/report/assignment-report.pdf) (LaTeX source next to it). The same write-up in Markdown, easier to diff, is [`docs/report/assignment-report.md`](docs/report/assignment-report.md).
 
 ## Data
 
@@ -50,7 +50,13 @@ python -m building_energy.cli
 pytest
 ```
 
-The command rewrites the report, the figures, and `data/processed/results.json`. The birth date and the assumed conductivities live in `config/case.toml`.
+The command rewrites the Markdown report, the figures, and `data/processed/results.json`. The birth date and the assumed conductivities live in `config/case.toml`.
+
+To rebuild the PDF after a change to the LaTeX source:
+
+```bash
+cd docs/report && pdflatex assignment-report.tex && pdflatex assignment-report.tex
+```
 
 ## Repo structure
 
